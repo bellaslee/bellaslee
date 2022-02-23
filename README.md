@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @peachyxin
-- 👀 I’m a design student by day and an illustrator, fingerstyle guitarist, and chef by night
+- 👀 I’m a student at the University of Washington currently planning on majoring in Informatics
 - 🌱 I’m currently learning web development and the Korean language
 - 📫 You can reach me on social media @peachyxin or through Discord, peachyxin#6027!
 
