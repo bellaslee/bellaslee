@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bella!
-- 👀 I’m a student at the University of Washington currently planning on majoring in Visual Communication Design and Informatics
+- 👀 I’m a student at the University of Washington currently planning on majoring in Informatics
 - 💮 My personal website can be found at <a href="http://bellalee.com">bellalee.com</a>
 - 🌱 I'm currently learning p5.js!
 
